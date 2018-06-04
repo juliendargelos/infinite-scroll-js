@@ -1,0 +1,23 @@
+{
+  "name": "infinite-scroll-js",
+  "version": "1.0.0",
+  "description": "Simple infinite scroll in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliendargelos/infinite-scroll-js.git"
+  },
+  "keywords": [
+    "infinite",
+    "scroll"
+  ],
+  "author": "Julien Dargelos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliendargelos/infinite-scroll-js/issues"
+  },
+  "homepage": "https://github.com/juliendargelos/infinite-scroll-js#readme"
+}
